@@ -49,4 +49,12 @@
 ---
 
 
-###
+### USING KAFKA CONNECT TO READ FROM A DATABASE (MYSQL) (20) 
+#### Create database 
+<img width="953" height="936" alt="image" src="https://github.com/user-attachments/assets/1e56b19b-3802-40f1-b3a1-844c5cdedcbb" />
+
+#### Confif file
+<img width="956" height="532" alt="image" src="https://github.com/user-attachments/assets/b7ba843d-fc52-48a2-b039-927434084067" />
+
+#### Check the results
+#### <img width="936" height="233" alt="image" src="https://github.com/user-attachments/assets/186eb223-fb98-4575-9934-53f988ecab86" />
